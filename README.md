@@ -35,7 +35,7 @@ This app is made available under the permissive open source license: the ISC Lic
 This project is not accepting contributions but if you send a pull request, it could be accepted under the terms of the [ISC license](https://opensource.org/licenses/ISC).
 
 ## Images
-![demo-readme-screen](./assets/screenshot.png)
+![demo-readme-screen](./public/assets/screenshot.png)
 
 ## Questions
 If you have questions contact me on GitHub at [hlry](https://github.com/hlry).
