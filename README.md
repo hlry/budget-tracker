@@ -25,7 +25,7 @@ npm install mongoose express
 That's it!
 
 ## Usage
-View the deployed webapp on [Heroku](www.heroku.com).
+View the [deployed webapp on Heroku](https://shielded-lake-93004.herokuapp.com/).
 
 ## LICENSE
 This app is made available under the permissive open source license: the ISC License. 
