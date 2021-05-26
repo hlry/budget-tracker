@@ -35,7 +35,14 @@ This app is made available under the permissive open source license: the ISC Lic
 This project is not accepting contributions but if you send a pull request, it could be accepted under the terms of the [ISC license](https://opensource.org/licenses/ISC).
 
 ## Images
+Deployed Webapp:
 ![demo-readme-screen](./public/assets/screenshot.png)
+
+Service worker in developer tools:
+![demo-service-worker](./public/assets/servicewrkr.png)
+
+Local host cache in developer tools:
+![demo-cache](./public/assets/localhostcache.png)
 
 ## Questions
 If you have questions contact me on GitHub at [hlry](https://github.com/hlry).
